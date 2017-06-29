@@ -1,0 +1,21 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    min-width: 960px;
+}
+
+.footer-footer {
+    height: 70px;
+    background-color: brown;
+}
+
+.footer-overfooter {
+  position: relative;
+  z-index: 0;
+  background-color: #520e0e;
+  background-image: -webkit-linear-gradient(180deg, #520e0e, brown 98%);
+  background-image: linear-gradient(180deg, #520e0e, brown 98%);
+  height: 30px;
+  margin-bottom: -20px;
+}

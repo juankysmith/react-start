@@ -1,0 +1,22 @@
+.center {
+  height: 600px;
+  width: 100%;
+  background-color: cornsilk;
+  padding-top: 30px;
+}
+
+.center-text {
+  background-color: cornsilk;
+  text-align: center;
+  vertical-align: middle;
+  margin: 20px;
+  font-size: 48px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center button {
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 40px;
+  min-width: 50px;
+}
